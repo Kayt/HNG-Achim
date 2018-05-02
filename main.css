@@ -1,0 +1,89 @@
+body {
+    position: absolute;
+    width: 922px;
+    height: 620px;
+    background: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover, 100vw;
+}
+
+
+.welcome {
+    float: left;
+    position: absolute;
+    width: 392px;
+    height: 531px;
+
+    background: rgba(247, 239, 242, 0.92);
+}
+
+.today {
+    float: right;
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+    text-align: center;
+
+    color: #F7EFF2;
+}
+
+.welcometo {
+    width: 310px;
+    height: 38px;
+    padding-top: 91px;
+    padding-left: 34px;
+
+    font-family: Sarpanch;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 48px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.hng {
+    width: 304px;
+    height: 71px;
+    padding-left: 34px;
+    font-family: Sarpanch;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#hng{
+    color: red;
+}
+
+.wednesday {
+    color: #F7EFF2;
+    background: #F25C00;
+    padding: 1em;
+    margin-top: 30px;
+    margin-bottom: 0.5em;
+    display: block;
+    width: 115px;
+    height: 30px;
+}
+.two, .five, .year {
+    float: left;
+    padding: 1em;
+    background: rgba(247, 0, 37, 0.4);
+    color: #F7EFF2;
+    width: 115px;
+    height: 42px;
+
+}
+
+.five {
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+}
